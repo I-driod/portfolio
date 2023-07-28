@@ -233,7 +233,7 @@ const Hero = () => {
       <br /> <br />
       <h3>Let's Connect</h3>
       
-      <a href="https://www.buymeacoffee.com/ibenemeikenna">
+      <a href="https://www.buymeacoffee.com/oneandtrue">
         <div className="details-me">
           <h4>
             <SiBuymeacoffee className="icon-arrows" />
@@ -244,7 +244,7 @@ const Hero = () => {
           </span>{" "}
         </div>
       </a>
-      <a href="https://github.com/Ibeneme">
+      <a href="https://github.com/I-driod">
         <div className="details-me">
           <h4>
             <BsGithub className="icon-arrows" />
@@ -255,18 +255,8 @@ const Hero = () => {
           </span>{" "}
         </div>
       </a>
-      {/* <a href='https://github.com/Ibeneme'>
-       <div className='details-me'>
-        <h4>
-        <BsGithub  className='icon-arrows'/>
-         View my Github</h4>
-       <span> 
-       <BsFillArrowUpRightCircleFill className='icon-arrows' />
-      
-        </span>  </div>
-        </a>
- */}
-      <a href="Mailto:Ibenemeikenna2021@gmail.com">
+     
+      <a href="Mailto:oneandtrueblueking@gmail.com">
         <div
           style={{ color: "white", backgroundColor: "black" }}
           className="details-me blackkk"
@@ -280,17 +270,7 @@ const Hero = () => {
           </span>{" "}
         </div>
       </a>
-      {/* <a href='https://wa.link/70sz29'>
-       <div className='details-me'>
-        <h4>
-        <IoLogoWhatsapp className='icon-arrows'/>
-         WhatsApp</h4>
-       <span> 
-       <BsFillArrowUpRightCircleFill className='icon-arrows' />
-      
-        </span>  </div>
-        </a>
- */}
+  
       <br />
       <div
         className="black-div white"
@@ -303,9 +283,9 @@ const Hero = () => {
         <h1>Working Experience</h1>
         <h3> - 2023</h3>
         <p style={{ marginTop: "-1em" }}>
-          Frontend Developer || Product Designer at Antigravitygroup - Hybrid
+          Information Technology || Digital Transformation at Antigravitygroup - Hybrid
           <br />
-          <p>(April 2023 - Recent)</p>
+          <p>(June 2023 - Recent)</p>
         </p>
         <h3> - 2023</h3>
         <p style={{ marginTop: "-1em" }}>
